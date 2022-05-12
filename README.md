@@ -10,7 +10,7 @@ NetVLAD와 관련된 자세한 내용은 [발표영상](https://drive.google.com
 
 ## 베이스라인 관련
 - 베이스라인 방법론 : NetVLAD
-- ![image](https://user-images.githubusercontent.com/88366891/168052630-2573742e-a019-4eef-bed3-5017abdabcf6.png)
+- ![image](https://user-images.githubusercontent.com/88366891/168052765-9a1b4c5a-f5ca-4fec-8233-24b13fcc4af0.png)
 - 베이스라인 논문 : 
 [NetVLAD: CNN architecture for weakly supervised place recognition](https://arxiv.org/abs/1511.07247)
 
