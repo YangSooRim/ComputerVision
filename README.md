@@ -14,8 +14,8 @@ NetVLAD와 관련된 자세한 내용은 [발표영상](https://drive.google.com
 [NetVLAD: CNN architecture for weakly supervised place recognition](https://arxiv.org/abs/1511.07247)
 
 ## 참고
-[Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)
-[Patch-NetVLAD Github](https://github.com/QVPR/Patch-NetVLAD.git)
+- [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)
+- [Patch-NetVLAD Github](https://github.com/QVPR/Patch-NetVLAD.git)
 
 ## 데이터셋
 - [Pittsburgh30k](https://data.ciirc.cvut.cz/public/projects/2015netVLAD/Pittsburgh250k/)
